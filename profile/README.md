@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://homebrew.hsp-ec.xyz">
-        <img src="https://media.discordapp.net/attachments/1105106387865980968/1109114978981646386/Homebrew_logo.png" alt="Homebrew-Logo">
+        <img src="https://homebrew.hsp-ec.xyz/images/nav-logo.png" alt="Homebrew-Logo" style="max-width: 100%; height: 150px;">
     </a>
     <br>
     <strong>Celebrate the Spirit of Free and Open Source Software with Homebrew, PESU ECC's First FOSS Community!</strong>
